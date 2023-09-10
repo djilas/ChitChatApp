@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChitChatApplication</string>
+    <string name="noAccount">"Don't have an account? Sing up here"</string>
+    <string name="alreadyHaveAcc">Already have an account? Log in</string>
+    <string name="nameOfApp">Chit-Chat</string>
+    <string name="singUp">Sing up</string>
+    <string name="back">Back</string>
+    <string name="password">Password</string>
+    <string name="delete">Delete Photo</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="login">Log in</string>
+    <string name="SuccessfulSingUp">"You're singed up successfully</string>
+    <string name="loginSucc">"You're logged in successfully"</string>
+    <string name="invalidInput">Invalid input</string>
+    <string name="uploadPhoto">Upload photo</string>
+    <string name="logOut">Log out</string>
+    <string name="uploading">Uploading...</string>
+    <string name="imageUploaded">Image uploaded successfully</string>
+</resources>
